@@ -1,0 +1,8 @@
+Target dependency graph (4 targets)
+Target 'DriverKitUserClientSampleAgg' in project 'DriverKitUserClientSample'
+➜ Explicit dependency on target 'SunshineDriver' in project 'DriverKitUserClientSample'
+➜ Explicit dependency on target 'CppUserClient' in project 'DriverKitUserClientSample'
+Target 'CppUserClient' in project 'DriverKitUserClientSample' (no dependencies)
+Target 'DriverKitSampleApp' in project 'DriverKitUserClientSample'
+➜ Explicit dependency on target 'SunshineDriver' in project 'DriverKitUserClientSample'
+Target 'SunshineDriver' in project 'DriverKitUserClientSample' (no dependencies)

@@ -1,0 +1,53 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "7f76363c9c4c7aa87d38c89d6fac547cea0f6709d3fa75b69930502dd1401d3c"
+    },
+    {
+      "guid" : "7f76363c9c4c7aa87d38c89d6fac547cc15d77d83d6af3ab3cbb6696f3f49de4"
+    },
+    {
+      "guid" : "7f76363c9c4c7aa87d38c89d6fac547c4743b2d85b6a9efd5af7d4b1c7f1d5fe"
+    },
+    {
+      "guid" : "7f76363c9c4c7aa87d38c89d6fac547c2a09a18ddae1143bf11179a6f78e2848"
+    },
+    {
+      "guid" : "7f76363c9c4c7aa87d38c89d6fac547cea0f6709d3fa75b69930502dd1401d3c"
+    }
+  ],
+  "containerPath" : "/Users/dirtplantman/projects/DriverKitUserClientSample/DriverKitUserClientSample/DriverKitUserClientSample.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "build",
+          "COLOR_DIAGNOSTICS" : "YES",
+          "diagnostic_message_length" : "231",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

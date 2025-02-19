@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/dirtplantman/projects/DriverKitUserClientSample/DriverKitUserClientSample/build/Release-driverkit/com.gigabitelabs.user-client.app.SunshineDriver.dext/com.gigabitelabs.user-client.app.SunshineDriver'
+relocations:     []
+...
