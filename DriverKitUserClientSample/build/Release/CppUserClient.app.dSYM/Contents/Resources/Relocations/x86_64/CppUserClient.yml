@@ -1,9 +1,0 @@
----
-triple:          'x86_64-apple-darwin'
-binary-path:     '/Users/dirtplantman/projects/DriverKitUserClientSample/DriverKitUserClientSample/build/Release/CppUserClient.app/Contents/MacOS/CppUserClient'
-relocations:
-  - { offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100000AC8, symSize: 0xCA8 }
-  - { offset: 0x3F, size: 0x8, addend: 0x0, symName: _globalRunLoop, symObjAddr: 0xA410, symBinAddr: 0x1000030C8, symSize: 0x0 }
-  - { offset: 0x70, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100000AC8, symSize: 0xCA8 }
-  - { offset: 0x1029, size: 0x8, addend: 0x0, symName: __ZL13AsyncCallbackPviPS_j, symObjAddr: 0xCA8, symBinAddr: 0x100001770, symSize: 0x9E }
-...
